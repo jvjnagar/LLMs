@@ -35,18 +35,6 @@ LLMs/
 └── ...
 ```
 
-## Usage
-
-[Add usage instructions here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-For questions or inquiries, please reach out to [your contact information].
